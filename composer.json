@@ -1,5 +1,5 @@
 {
-  "name": "julianxhokaxhiu/lineage-ota",
+  "name": "securesession-live/lineage-ota",
   "description": "A simple OTA REST Server for LineageOS OTA Updater System Application",
   "version": "2.9.0",
   "type": "project",
@@ -11,7 +11,7 @@
     "rest",
     "php"
   ],
-  "homepage": "https://github.com/julianxhokaxhiu/LineageOTA",
+  "homepage": "https://github.com/securesession-live/LineageOTA",
   "license": "MIT",
   "authors": [
     {
